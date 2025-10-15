@@ -16,7 +16,6 @@
 - 📍 Based in Kuching, Sarawak, Malaysia  
 - 🎓 Student  
 - 💡 Passionate about web development, open source, plant & nature projects  
-- 🐛 Currently working on **RootFlowers Website** and other web apps  
 - 🌱 Always learning — exploring new languages, frameworks & tools  
 
 ---
