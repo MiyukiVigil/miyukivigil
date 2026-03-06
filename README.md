@@ -32,20 +32,6 @@ Here are some languages, tools, and technologies I use or want to dive deeper in
 | Dev & Workflow | Git, GitHub Actions, VSCode |
 | Others | APIs, Web scraping, Automation |
 
----
-
-## 📂 Featured Projects
-
-Here are a few repositories I’m proud of:
-
-| Project | Description |
-|---|---|
-| **Herbaria Website** | A guide & showcase site for plants and botany |
-| **Herbaria Website (PHP version)** | A PHP-based upgrade & refactor |
-| **Office365Web** | Web version of Microsoft 365 for Linux users |
-| **RootFlowers** | A website made for RootFlowers as part of COS30020 Assignment 1 |
-
----
 
 ## 🤝 Group Work
 
@@ -62,12 +48,6 @@ Let’s get in touch:
 
 - 🐦 Twitter: [@miyukivigil](https://twitter.com/miyukivigil)  
 - 📧 Email: *miyukivigil@gmail.com*  
-
----
-
-## 📈 GitHub Stats
-
-[![Ivan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MiyukiVigil&show_icons=true&theme=tokyonight)](https://github.com/MiyukiVigil)
 
 ---
 
