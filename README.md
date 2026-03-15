@@ -26,9 +26,9 @@ Here are some languages, tools, and technologies I use or want to dive deeper in
 
 | Domain | Tools & Tech |
 |---|---|
-| Frontend | HTML, CSS, JavaScript, React, Tailwind |
-| Backend | PHP, Node.js, Express |
-| Database | MySQL, SQLite |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | PHP, Django |
+| Database | MySQL, PostgreSQL |
 | Dev & Workflow | Git, GitHub Actions, VSCode |
 | Others | APIs, Web scraping, Automation |
 
