@@ -1,57 +1,104 @@
-<!--
-  Hi there 👋 I’m Ivan (aka MiyukiVigil)
-  Welcome to my GitHub profile!
--->
+<div align="center">
 
-# 🧩 Ivan “MiyukiVigil” Liang Jin Ngu
+# Ivan “MiyukiVigil” Liang Jin Ngu
 
-**“Living the dream of suffering from assignments.”**
+Computer Science student focused on full stack development, AI systems, Linux environments, and practical software engineering.
 
-> Learning, building & growing — one project at a time.
+</div>
 
 ---
 
-## 🔭 About Me
+## About Me
 
-- 📍 Based in Kuching, Sarawak, Malaysia  
-- 🎓 Student  
-- 💡 Passionate about web development, open source, plant & nature projects  
-- 🌱 Always learning — exploring new languages, frameworks & tools  
-
----
-
-## 🛠️ Tech & Tools
-
-Here are some languages, tools, and technologies I use or want to dive deeper into:
-
-| Domain | Tools & Tech |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | PHP, Django |
-| Database | MySQL, PostgreSQL |
-| Dev & Workflow | Git, GitHub Actions, VSCode |
-| Others | APIs, Web scraping, Automation |
-
-
-## 🤝 Group Work
-
-I also collaborate with my team under the **[micro-corn group](https://github.com/microcorn-group)**:
-
-- 🌱 Shared projects and assignments  
-- 🧩 A mix of experimentation, teamwork, and open-source collaboration  
+* Computer Science student at Swinburne University of Technology Sarawak
+* Interested in AI systems, backend engineering, mobile development, Linux environments, and automation
+* Passionate about building practical real-world applications
+* Linux daily driver with a strong interest in system customization and developer tooling
 
 ---
 
-## 💬 Connect With Me
+## Technologies & Tools
 
-Let’s get in touch:
+<div align="center">
 
-- 🐦 Twitter: [@miyukivigil](https://twitter.com/miyukivigil)  
-- 📧 Email: *miyukivigil@gmail.com*  
+<img src="https://skillicons.dev/icons?i=js,python,java,php,react,html,css,django,postgres,mysql,firebase,pytorch,opencv,linux,git,github,azure,bash,vscode&perline=7" />
+
+</div>
+
+---
+
+## Areas of Interest
+
+* Full Stack Development
+* Backend API Systems
+* Mobile Applications
+* Artificial Intelligence
+* Computer Vision
+* Automation & Tooling
+* Linux & System Optimization
+* Experimental Software Projects
 
 ---
 
-Thanks for stopping by! 🚀  
-Let’s build something amazing together.
+## Development Environment
+
+Currently experimenting with:
+
+* Hyprland
+* Wayland ecosystems
+* Android customization & custom ROMs
+* Developer workflows
+* Performance optimization
+* Self-hosted & cloud-based development environments
+
+Current setup changes frequently depending on what breaks first.
 
 ---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MiyukiVigil&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiyukiVigil&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyukiVigil&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MiyukiVigil&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Collaboration
+
+I also collaborate with the
+[micro-corn group](https://github.com/microcorn-group)
+
+Projects include:
+
+* Collaborative software development
+* Experimental systems
+* Open-source exploration
+* University assignments & prototypes
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[GitHub](https://github.com/MiyukiVigil) •
+[X / Twitter](https://twitter.com/miyukivigil) •
+[miyukivigil@gmail.com](mailto:miyukivigil@gmail.com)
+
+</div>
