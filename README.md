@@ -44,6 +44,30 @@ Parametric EQ for the Moondrop DAWN PRO2. I reverse engineered the DAC's USB pro
 <tr>
 <td width="50%" valign="top">
 
+### [Totem](https://github.com/MiyukiVigil/Totem)
+2FA codes on your PC without picking up your phone. The phone keeps the secrets and answers over an end-to-end encrypted link, even asleep, in about a second. Ctrl+Shift+A, type a name, Enter, and Windows Hello lets the code onto the clipboard. A browser extension fills 2FA boxes directly.
+
+🟢 **Open source** · MIT · [repo](https://github.com/MiyukiVigil/Totem) · in daily use
+
+`Rust` `Kotlin` `Jetpack Compose` `Tauri` `Cloudflare Workers`
+
+</td>
+<td width="50%" valign="top">
+
+### Keitai Home
+A 2000s Japanese flip phone, rebuilt as an Android home screen for my ALT Mive Style Folder 2. Standby clock, a keypad-shaped menu, 13 themes, and a live outer screen on the lid with a pixel pet, lyrics and a bedside clock.
+
+📱 **In daily use** on my own flip phone
+
+<img src="https://miyukivigil.tech/images/keitai/hero.webp" alt="Keitai Home" />
+
+`Kotlin` `Android` `Binder` `Shizuku`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [Clawtomo](https://clawtomo.miyukivigil.tech)
 A tamagotchi for Claude Code. Clawd thinks while Claude thinks, and pings your phone when Claude needs your OK.
 
@@ -78,11 +102,11 @@ My Hyprland desktop, built from scratch in Quickshell: bar, launcher, dock, lyri
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,php,cpp,react,html,css,django,postgres,mysql,firebase,cloudflare,pytorch,opencv,linux,arch,git,bash,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,rust,php,cpp,react,html,css,django,postgres,mysql,firebase,cloudflare,pytorch,opencv,linux,arch,git,bash,vscode&perline=7" />
 
 </div>
 
-Python for data and AI · TypeScript and React for interfaces · Java for structured systems · PHP for server-rendered web · C++ on microcontrollers
+Python for data and AI · TypeScript and React for interfaces · Kotlin for Android · Rust where it has to be fast and safe · Java for structured systems · PHP for server-rendered web · C++ on microcontrollers
 
 ---
 
